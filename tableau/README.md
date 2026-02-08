@@ -10,6 +10,3 @@ This dashboard visualizes:
 - Customer recency patterns
 - Satisfaction vs churn risk
 - Churn by loyalty membership tier
-
-The `.twbx` file allows the dashboard to be opened locally in Tableau Desktop,
-while Tableau Public provides an interactive online version.
